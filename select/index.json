@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "嘘",
+  "base_artist": "SID",
+  "createdAt": "2026-02-10T11:01:05.723713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "Sid",
+      "has_synced": true,
+      "path": "select/01_嘘_Sid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/02_嘘_SID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コジンマル ~嘘~ - Japanese ver.",
+      "artist": "T-ARA",
+      "has_synced": false,
+      "path": "select/03_コジンマル_~嘘~_-_Japanese_ver._T-ARA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コジンマル~嘘~ (Japanese ver.)",
+      "artist": "T-ARA",
+      "has_synced": false,
+      "path": "select/04_コジンマル~嘘~_(Japanese_ver.)_T-ARA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "Sid (シド)",
+      "has_synced": true,
+      "path": "select/05_嘘_Sid_(シド).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/06_嘘_SID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/07_嘘_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/08_嘘_SID.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/09_嘘_SID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/10_嘘_SID.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "嘘",
+      "artist": "Jasmine Sokko",
+      "has_synced": true,
+      "path": "select/11_嘘_Jasmine_Sokko.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "嘘 - Uso",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/12_嘘_-_Uso_SID.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "嘘 (谎言)",
+      "artist": "SID (シド)",
+      "has_synced": true,
+      "path": "select/13_嘘_(谎言)_SID_(シド).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_01_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_02_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_03_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_04_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_05_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_06_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_07_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_08_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_09_嘘_シド.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "嘘",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_10_嘘_シド.txt"
+    }
+  ]
+}
